@@ -1,1 +1,2 @@
-# 带休止符的xml_music 解析，提取xml的各种属性
+xml_music带休止符的xml解析，提取xml的各种属性
+ET_xml xml文件修改，删除以及增加节点以及节点属性
